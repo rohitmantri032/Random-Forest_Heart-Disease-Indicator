@@ -1,0 +1,21 @@
+feature,importance
+cat__HadAngina_Yes,0.16647702480618073
+cat__HadAngina_No,0.136947095799437
+cat__ChestScan_Yes,0.05513240152754877
+cat__ChestScan_No,0.044850519822479507
+cat__HadStroke_Yes,0.02342203661189972
+cat__HadDiabetes_Yes,0.022977201829096138
+cat__RemovedTeeth_None of them,0.022836599922213343
+num__BMI,0.021831349865745097
+cat__DifficultyWalking_Yes,0.020625377039727714
+cat__DifficultyWalking_No,0.020428744597279704
+num__WeightInKilograms,0.020182362400599285
+cat__HadStroke_No,0.01872819818433917
+num__HeightInMeters,0.016544153959578353
+cat__HadDiabetes_No,0.015702951027201876
+num__PhysicalHealthDays,0.01552706953539457
+cat__PneumoVaxEver_Yes,0.015353672351494917
+cat__HadArthritis_No,0.012041966560572503
+cat__PneumoVaxEver_No,0.011590296317519759
+num__SleepHours,0.011427886602816116
+cat__HadArthritis_Yes,0.01101905254594164
